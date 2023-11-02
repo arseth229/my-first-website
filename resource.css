@@ -1,0 +1,34 @@
+body {
+  background-color: #e7b3b3;
+}
+
+.navigationBar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navigationBar button {
+  background-color: #feb062;
+  color: #575151;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  color: #3f3b3b;
+}
+
+.res {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.res li {
+  margin-top: 30px;
+}
+
+a {
+  color: #575151;
+}

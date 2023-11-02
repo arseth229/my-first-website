@@ -1,0 +1,80 @@
+
+body {
+  display: grid;
+  background-color: darkgreen
+
+
+}
+
+h1 {
+  display: grid;
+  justify-content: center;
+  color: yellow;
+  text-decoration: underline;
+}
+
+.navigationBar {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.navigationBar button {
+  color: ivory;
+  background-color: sienna;
+}
+
+
+
+.image {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.image img {
+  width: 400px;
+}
+
+.history h2 {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+  text-decoration-style: wavy;
+}
+
+.history p {
+  display: flex;
+  justify-content: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: ivory;
+}
+
+.today h2 {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+}
+
+.today p {
+  display: flex;
+  justify-content: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: ivory;
+}
+
+.goal h2 {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+}
+
+.goal p {
+  display: flex;
+  justify-content: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: ivory;
+}

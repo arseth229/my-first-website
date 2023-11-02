@@ -1,0 +1,87 @@
+
+body {
+  background-color: #9fd3c7;
+}
+
+
+.navigationBar {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.navigationBar button {
+  background-color: cyan;
+}
+
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: #142d4c;
+  text-decoration: underline;
+}
+
+.horzLab {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 50px;
+  color: #385170;
+}
+
+.horz {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.horz img {
+  width: 200px;
+  height: 150px;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.pete {
+  position: relative;
+  left: 20px;
+}
+
+.disney {
+  position: relative;
+  left: 20px;
+}
+
+.doug {
+  border: 1px solid red;
+}
+
+.labD {
+  margin-right: 3px;
+}
+
+.vertLab {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-top: 50px;
+  color: #385170;
+  font-style: bold;
+}
+
+.vert {
+  display: flex;
+  justify-content: space-around;
+}
+
+.vert img {
+  width: 300px;
+  height: 375px;
+  margin-top: 10px;
+}
